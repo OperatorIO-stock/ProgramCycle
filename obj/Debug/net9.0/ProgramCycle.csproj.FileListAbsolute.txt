@@ -1,0 +1,15 @@
+/home/operatorio/Документы/meCodes/ProgramCycle/bin/Debug/net9.0/ProgramCycle
+/home/operatorio/Документы/meCodes/ProgramCycle/bin/Debug/net9.0/ProgramCycle.deps.json
+/home/operatorio/Документы/meCodes/ProgramCycle/bin/Debug/net9.0/ProgramCycle.runtimeconfig.json
+/home/operatorio/Документы/meCodes/ProgramCycle/bin/Debug/net9.0/ProgramCycle.dll
+/home/operatorio/Документы/meCodes/ProgramCycle/bin/Debug/net9.0/ProgramCycle.pdb
+/home/operatorio/Документы/meCodes/ProgramCycle/obj/Debug/net9.0/ProgramCycle.GeneratedMSBuildEditorConfig.editorconfig
+/home/operatorio/Документы/meCodes/ProgramCycle/obj/Debug/net9.0/ProgramCycle.AssemblyInfoInputs.cache
+/home/operatorio/Документы/meCodes/ProgramCycle/obj/Debug/net9.0/ProgramCycle.AssemblyInfo.cs
+/home/operatorio/Документы/meCodes/ProgramCycle/obj/Debug/net9.0/ProgramCycle.csproj.CoreCompileInputs.cache
+/home/operatorio/Документы/meCodes/ProgramCycle/obj/Debug/net9.0/ProgramCycle.sourcelink.json
+/home/operatorio/Документы/meCodes/ProgramCycle/obj/Debug/net9.0/ProgramCycle.dll
+/home/operatorio/Документы/meCodes/ProgramCycle/obj/Debug/net9.0/refint/ProgramCycle.dll
+/home/operatorio/Документы/meCodes/ProgramCycle/obj/Debug/net9.0/ProgramCycle.pdb
+/home/operatorio/Документы/meCodes/ProgramCycle/obj/Debug/net9.0/ProgramCycle.genruntimeconfig.cache
+/home/operatorio/Документы/meCodes/ProgramCycle/obj/Debug/net9.0/ref/ProgramCycle.dll
