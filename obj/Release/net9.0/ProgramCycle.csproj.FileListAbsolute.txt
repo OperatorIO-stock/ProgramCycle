@@ -1,0 +1,15 @@
+/home/casper/Документы/Codes/Cylce/ProgramCycle/bin/Release/net9.0/ProgramCycle
+/home/casper/Документы/Codes/Cylce/ProgramCycle/bin/Release/net9.0/ProgramCycle.deps.json
+/home/casper/Документы/Codes/Cylce/ProgramCycle/bin/Release/net9.0/ProgramCycle.runtimeconfig.json
+/home/casper/Документы/Codes/Cylce/ProgramCycle/bin/Release/net9.0/ProgramCycle.dll
+/home/casper/Документы/Codes/Cylce/ProgramCycle/bin/Release/net9.0/ProgramCycle.pdb
+/home/casper/Документы/Codes/Cylce/ProgramCycle/obj/Release/net9.0/ProgramCycle.GeneratedMSBuildEditorConfig.editorconfig
+/home/casper/Документы/Codes/Cylce/ProgramCycle/obj/Release/net9.0/ProgramCycle.AssemblyInfoInputs.cache
+/home/casper/Документы/Codes/Cylce/ProgramCycle/obj/Release/net9.0/ProgramCycle.AssemblyInfo.cs
+/home/casper/Документы/Codes/Cylce/ProgramCycle/obj/Release/net9.0/ProgramCycle.csproj.CoreCompileInputs.cache
+/home/casper/Документы/Codes/Cylce/ProgramCycle/obj/Release/net9.0/ProgramCycle.sourcelink.json
+/home/casper/Документы/Codes/Cylce/ProgramCycle/obj/Release/net9.0/ProgramCycle.dll
+/home/casper/Документы/Codes/Cylce/ProgramCycle/obj/Release/net9.0/refint/ProgramCycle.dll
+/home/casper/Документы/Codes/Cylce/ProgramCycle/obj/Release/net9.0/ProgramCycle.pdb
+/home/casper/Документы/Codes/Cylce/ProgramCycle/obj/Release/net9.0/ProgramCycle.genruntimeconfig.cache
+/home/casper/Документы/Codes/Cylce/ProgramCycle/obj/Release/net9.0/ref/ProgramCycle.dll

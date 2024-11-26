@@ -7,9 +7,10 @@ class Program
         const string CommandExitProgram = "/exit";
 
         string messageUser;
+        
         bool isWorkProgram = true;
 
-        Console.WriteLine("Чтобы выйти из программы - /exit");
+        Console.WriteLine($"Чтобы выйти из программы - {CommandExitProgram}");
 
         while(isWorkProgram)
         {
@@ -20,6 +21,5 @@ class Program
                 isWorkProgram = false;
             }
         }
-
     }
 }

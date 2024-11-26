@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/operatorio/Документы/meCodes/ProgramCycle/ProgramCycle.csproj": {}
+    "/home/casper/Документы/Codes/Cylce/ProgramCycle/ProgramCycle.csproj": {}
   },
   "projects": {
-    "/home/operatorio/Документы/meCodes/ProgramCycle/ProgramCycle.csproj": {
+    "/home/casper/Документы/Codes/Cylce/ProgramCycle/ProgramCycle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/operatorio/Документы/meCodes/ProgramCycle/ProgramCycle.csproj",
+        "projectUniqueName": "/home/casper/Документы/Codes/Cylce/ProgramCycle/ProgramCycle.csproj",
         "projectName": "ProgramCycle",
-        "projectPath": "/home/operatorio/Документы/meCodes/ProgramCycle/ProgramCycle.csproj",
-        "packagesPath": "/home/operatorio/.nuget/packages/",
-        "outputPath": "/home/operatorio/Документы/meCodes/ProgramCycle/obj/",
+        "projectPath": "/home/casper/Документы/Codes/Cylce/ProgramCycle/ProgramCycle.csproj",
+        "packagesPath": "/home/casper/.nuget/packages/",
+        "outputPath": "/home/casper/Документы/Codes/Cylce/ProgramCycle/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/operatorio/.nuget/NuGet/NuGet.Config"
+          "/home/casper/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
